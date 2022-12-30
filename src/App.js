@@ -4,7 +4,13 @@ import React, { useState } from "react";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">Weather Search</header>
+      <footer>
+        {" "}
+        Created by Maren, see code at{" "}
+        <a href="https://github.com/marenkeller/my-app.git" target="_blank">
+          GitHub
+        </a>{" "}
+      </footer>
     </div>
   );
 }

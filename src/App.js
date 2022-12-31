@@ -7,7 +7,11 @@ function App() {
       <footer>
         {" "}
         Created by Maren, see code at{" "}
-        <a href="https://github.com/marenkeller/my-app.git" target="_blank">
+        <a
+          href="https://github.com/marenkeller/my-app.git"
+          rel="noreferrer"
+          target="_blank"
+        >
           GitHub
         </a>{" "}
       </footer>
